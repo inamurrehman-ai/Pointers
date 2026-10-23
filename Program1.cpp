@@ -1,4 +1,5 @@
-//Write a Program that inputs a no. in an integer variable. It stores the address of the variable and then displays the value and address of the variable.
+//Write a Program that inputs a no. in an integer variable. It stores the address
+//of the variable and then displays the value and address of the variable.
 #include <iostream>
 using namespace std;
 int main() {
